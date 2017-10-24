@@ -1,17 +1,7 @@
 /**************************************************
 *	Derek Yee
-*	CS140 Intro to CS and Problem Solving
-*
-*
 *	purpose: Driver for the game of life class.
-*
-*
-*
-*
-*
-*
-*
-****************************************************/
+*****************************************************/
 import java.util.Scanner;
 import java.io.*;
 public class Yee_GameOfLifeDriver
